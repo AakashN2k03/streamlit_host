@@ -1,5 +1,5 @@
-openai
 langchain
 streamlit
 PyPDF2
-langchain_google_genai
+langchain-community
+langchain-google-genai
